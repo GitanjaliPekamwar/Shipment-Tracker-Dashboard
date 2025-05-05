@@ -1,5 +1,8 @@
 # Shipment Tracker - Power BI Dashboard
 
+## 📸Report Preview
+![Report Sneak Peek](https://github.com/GitanjaliPekamwar/Hospital-Management-System-Analysis/blob/main/Hosital%20Management%20Project/Screenshot%202025-05-03%20192945.png)
+
 ## 📌 Project Overview
 The **Shipment Tracker** Power BI dashboard provides an interactive visualization of shipment data, helping businesses track key logistics metrics such as total shipments, transit time, warehouse capacity, and delivery performance. The dashboard is designed to improve supply chain efficiency and monitor performance trends.
 
